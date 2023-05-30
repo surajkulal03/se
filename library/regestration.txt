@@ -1,4 +1,0 @@
-college id
-student reg No :[D[D[D[D[D[D[D[D[D[D[D[D[D[D[S[C[C[C[C[C[C[C[C[I[B[R[C[C[C[C[C[C[C
-Student Name :[A[A[A[B[D[D[D[D :[B[B[B[C[C
-librarian should provide membership card to the student
